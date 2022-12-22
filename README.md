@@ -4,7 +4,7 @@
 ### Author: Mathieu Roberts
 
 ### Links and Resources
-- [Github repo]()
+- [Github repo](https://github.com/VadenGrey/math-series)
 
 ### Setup
 .venv requirements:
